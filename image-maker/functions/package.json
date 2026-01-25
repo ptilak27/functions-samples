@@ -2,9 +2,9 @@
   "name": "functions-image-maker",
   "description": "Sample functions that generate images on the backend",
   "dependencies": {
-    "canvas": "^2.6.1",
+    "canvas": "^3.0.0",
     "express": "4.17.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.23",
     "firebase-admin": "^9.11.0",
     "firebase-functions": "^3.14.1"
   },
